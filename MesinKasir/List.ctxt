@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=List(int,\ int)
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ List\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=lst
+comment1.target=void\ refresh(List)
+comment10.params=
+comment10.target=void\ act()
+comment2.params=
+comment2.target=java.util.Vector\ getBarang()
+comment3.params=
+comment3.target=java.util.Vector\ getQty()
+comment4.params=brg
+comment4.target=void\ tambahBarang(Item)
+comment5.params=
+comment5.target=int\ countList()
+comment6.params=
+comment6.target=void\ refresh()
+comment7.params=
+comment7.target=int\ getTotal()
+comment8.params=
+comment8.target=int\ getWidth()
+comment9.params=
+comment9.target=int\ getHeight()
+numComments=11

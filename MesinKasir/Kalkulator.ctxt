@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=bg\ lst
+comment0.target=Kalkulator(greenfoot.GreenfootImage,\ List)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Kalkulator.\n\ \n
+comment1.params=
+comment1.target=Label\ getMonitor()
+comment2.params=
+comment2.target=List\ getList()
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=void\ repaint()
+numComments=5

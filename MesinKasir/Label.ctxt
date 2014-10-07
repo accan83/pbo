@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=width\ height\ r\ g\ b
+comment0.target=Label(int,\ int,\ int,\ int,\ int)
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ Label\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=
+comment1.target=void\ reset()
+comment2.params=isi\ size
+comment2.target=void\ setKata(java.lang.String,\ int)
+comment3.params=isi\ size
+comment3.target=void\ setKata(int,\ int)
+comment4.params=idx
+comment4.target=java.lang.String\ getKata(int)
+comment5.params=
+comment5.target=int\ getCount()
+comment6.params=
+comment6.target=int\ getWidth()
+comment7.params=
+comment7.target=int\ getHeight()
+comment8.params=
+comment8.target=void\ act()
+numComments=9
